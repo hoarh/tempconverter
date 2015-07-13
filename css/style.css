@@ -50,7 +50,19 @@ body {
      font-size: 12px;
      line-height: 1.4;
      font-family: Helvetica, Arial, sans-serif;
-     margin:0px;
+     background-image: url("../images/landscape.jpg");
+}
+
+p.result {
+     font-size: 50px;
+     text-align: center;
+     font-weight: bold;
+     margin: auto;
+     text-align: center;
+     color: white;
+}
+    
+
 }
 
 /******************************************
